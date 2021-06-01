@@ -11,11 +11,11 @@ education:
   - course: BA in Political Economy & Latin American Studies
     institution: Hampshire College
     year: 2006
-email: ""
+email: "ltemery@gmail.com"
 highlight_name: false
 interests:
 - Sustainable finance in sovereign debt markets
-- International politics & policymaking
+- International political economy & policymaking
 - Reproducible research
 - Creating data science tools that help domain experts do their jobs better
 role: Independent Research Analyst
