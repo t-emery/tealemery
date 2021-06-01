@@ -1,27 +1,24 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I turn messy data into actionable insights.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Certificate in Data Science
+    institution: General Assembly
+    year: 2019
+  - course: M.I.A in International Finance & Economic Policy
+    institution: Columbia University, School of International and Public Affairs (SIPA)
+    year: 2013
+  - course: BA in Political Economy & Latin American Studies
+    institution: Hampshire College
+    year: 2006
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- Sustainable finance in sovereign debt markets
+- International politics & policymaking
+- Reproducible research
+- Creating data science tools that help domain experts do their jobs better
+role: Independent Research Analyst
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +28,24 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/lteal
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/t-emery
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/ltealemery/
 superuser: true
-title: Nelson Bighetti
+title: Teal Emery
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Teal Emery is an independent research analyst who uses modern data science tools to uncover actionable insights relevant to policymaking, financial markets, and business.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He worked for seven years as an emerging markets investment research analyst for Morgan Stanley Investment Management (MSIM). He traveled regularly to Africa, the Middle East, and across the developing world to meet with economic policymakers, business people, and civil society. He has a strong interest in sustainability issues and created MSIM's first sovereign ESG framework.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Over time, he increasingly used a data science approach (using R and Python) to economic and financial analysis.  In 2020 he left Morgan Stanley and began working as a consultant to the World Bank on analysis and thought leadership related to aligning sovereign debt investing with sustainability goals. Currently he is working to expand his data science toolkit and build up his private sector consulting practice. 
+
+
+
+
+
