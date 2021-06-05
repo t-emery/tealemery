@@ -1,0 +1,24 @@
+---
+title: Welcome
+author: Teal Emery
+date: '2021-06-05'
+slug: welcome
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-06-05T08:50:00-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+
+Welcome to my personal website and blog.  I am an independent research analyst who focuses on economics, finance, and sustainability issues using a data science lens.  
+
+More to come soon!
