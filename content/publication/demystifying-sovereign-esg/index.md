@@ -26,16 +26,19 @@ abstract: The evolution of sustainable finance to mainstream finance has been
 draft: false
 featured: true
 tags:
-  - esg
-  - world_bank
-  - sovereign_debt
-  - sustainability
+  - ESG 
+  - World Bank
+  - Sovereign Debt
+  - Sustainability
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-  alt_text: This is a short description for screen readers
-  caption: This is caption text
+  alt_text: Demystifying Sovereign ESG
+  caption: 'Image credit: [**World Bank**](https://documents1.worldbank.org/curated/en/842671621238316887/pdf/Demystifying-Sovereign-ESG.pdf)'
 summary: This is a shortened summary
-date: 2021-06-07T22:03:47.455Z
+date: 2021-05-22T22:03:47.455Z
+publishDate: "2021-05-22T00:00:00.000Z"
+publication: World Bank
+url_pdf: https://documents1.worldbank.org/curated/en/842671621238316887/pdf/Demystifying-Sovereign-ESG.pdf
 ---
