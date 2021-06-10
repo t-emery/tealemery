@@ -43,7 +43,7 @@ Teal Emery is an independent research analyst who uses modern data science tools
 
 He worked for seven years as an emerging markets investment research analyst for Morgan Stanley Investment Management (MSIM). He traveled regularly to Africa, the Middle East, and across the developing world to meet with economic policymakers, business people, and civil society. He has a strong interest in sustainability issues and created MSIM's first sovereign ESG framework.  
 
-Over time, he increasingly moved towards a data science approach (using R and Python) to economic and financial analysis.  In 2020, he left Morgan Stanley and began working as a consultant to the World Bank on analysis and thought leadership related to aligning sovereign debt investing with sustainability goals. Currently, he is building up is private sector consulting practice, and working to expand his toolkit for extracting insights from messy and unstructured data (such as text data & spatial data). 
+Over time, he increasingly moved towards a data science approach (using R and Python) to economic and financial analysis.  In 2020, he left Morgan Stanley and began working as a consultant to the World Bank on analysis and thought leadership related to aligning sovereign debt investing with sustainability goals. Currently, he is building up is private sector consulting practice, and working to expand his toolkit for extracting insights from messy and unstructured data (such as text & spatial data). 
 
 
 
