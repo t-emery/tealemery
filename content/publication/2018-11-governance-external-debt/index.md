@@ -12,8 +12,12 @@ tags:
   - ESG 
   - Sovereign Debt
   - Sustainability
-summary: This is a shortened summary
+summary: In this paper, I shed light on ESG investing by focusing on governance and examining its relationship with risk premiums and returns in emerging market hard currency bonds using the World Bank's [Worldwide Governance Indicators (WGIs)](https://info.worldbank.org/governance/wgi/).  
 date: 2018-11-01T00:00:00.000Z
 publishDate: "2018-11-01T00:00:00.000Z"
 publication: Morgan Stanley Investment Management
 ---
+
+**Co-authors**: [Eric Baurmeister](https://www.linkedin.com/in/eric-baurmeister-8b806511/) 
+
+No publication link currently available.

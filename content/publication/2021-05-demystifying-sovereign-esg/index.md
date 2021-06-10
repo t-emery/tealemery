@@ -36,9 +36,11 @@ image:
   preview_only: false
   alt_text: Demystifying Sovereign ESG
   caption: 'Image credit: [**World Bank**](https://documents1.worldbank.org/curated/en/842671621238316887/pdf/Demystifying-Sovereign-ESG.pdf)'
-summary: This is a shortened summary
+summary: As ESG investing has progressed from its origins in equity markets to sovereign fixed income markets, what exactly does "Sovereign ESG performance" measure?  We find that Sovereign ESG scores are highly correlated with a country's level of income.  This *ingrained income bias* has the potential to skew capital flows towards rich countries and away from developing nations, exacerbating SDG funding gaps, and incentiving investment in countries with higher per-capita CO2 emissions. 
 date: 2021-05-22T22:03:47.455Z
 publishDate: "2021-05-22T00:00:00.000Z"
 publication: World Bank
 url_pdf: https://documents1.worldbank.org/curated/en/842671621238316887/pdf/Demystifying-Sovereign-ESG.pdf
 ---
+
+**Co-authors**: Ekaterina Gratcheva & Dieter Wang

@@ -13,8 +13,10 @@ tags:
   - Sovereign Debt
   - Frontier Markets
   - Morgan Stanley Investment Management
-summary: This is a shortened summary
+summary: In this paper, I take a more systematic look at frontier markets, their role in emerging market (EM) external debt portfolios, and portfolio allocation.
 date: 2016-12-01T00:00:00.000Z
 publishDate: "2016-12-01T00:00:00.000Z"
 publication: Morgan Stanley Investment Management
 ---
+
+No publication link currently available.

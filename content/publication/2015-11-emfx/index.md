@@ -13,9 +13,11 @@ tags:
   - Emerging Markets
   - Sovereign Debt
   - Morgan Stanley Investment Management
-summary: This is a shortened summary
+summary: This paper, from 2015, examines the attractiveness of emerging market currency (EMFX) valuations using long-term, medium-term, and short-term FX valuation frameworks. 
 date: 2015-11-01T00:00:00.000Z
 publishDate: "2015-11-01T00:00:00.000Z"
 publication: Morgan Stanley Investment Management
 url_pdf: https://www.morganstanley.com/im/publication/insights/investment-insights/ii_emergingmarketattractive_en.pdf
 ---
+
+**Co-author**: [Jens Nystedt](https://www.linkedin.com/in/jens-nystedt-43b48634/)

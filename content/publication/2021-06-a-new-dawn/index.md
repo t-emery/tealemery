@@ -1,3 +1,4 @@
+
 ---
 title: A New Dawn -- Rethinking Sovereign ESG
 publication_types:
@@ -20,9 +21,17 @@ image:
   preview_only: false
   alt_text: A New Dawn
   caption: 'Image credit: [**World Bank**](https://documents1.worldbank.org/curated/en/694901623100755591/pdf/A-New-Dawn-Rethinking-Sovereign-ESG.pdf)'
-summary: This is a shortened summary
+summary: How can we fix the structural problems of Sovereign ESG investing, and better align it with the achievement of sustainability goals?
 date: 2021-06-08T00:00:00.000Z
 publishDate: "2021-06-08T00:00:00.000Z"
 publication: World Bank & J.P. Morgan
 url_pdf: https://documents1.worldbank.org/curated/en/694901623100755591/pdf/A-New-Dawn-Rethinking-Sovereign-ESG.pdf
+
+
 ---
+
+**Co-authors**:  
+
+**World Bank**:  Ekaterina Gratcheva, Bryan Gurhy, & Dieter Wang
+
+**J.P. Morgan**:  Luis Oganes, Jarrad K. Linzie, Lydia Harvey, Katherine Marney, Jessica Murray, & Rupert Rink

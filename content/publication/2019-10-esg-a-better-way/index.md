@@ -12,9 +12,12 @@ tags:
   - ESG 
   - Sovereign Debt
   - Sustainability
-summary: This is a shortened summary
+  - Morgan Stanley Investment Management
+summary: I created Morgan Stanley Investment Management's first Sovereign ESG framework.  This paper explains the framework, and the philosophy behind it. 
 date: 2019-10-01T00:00:00.000Z
 publishDate: "2019-10-01T00:00:00.000Z"
 publication: Morgan Stanley Investment Management
 url_pdf: https://www.morganstanley.com/im/publication/insights/investment-insights/ii_esgandsovereignfixedincomeinvestingabetterway_en.pdf
 ---
+
+**Co-author**: [Jim Caron](https://www.linkedin.com/in/jim-caron-35804645/)
