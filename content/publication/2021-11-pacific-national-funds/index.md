@@ -12,7 +12,7 @@ This publication benchmarked their approach to Sovereign ESG against best practi
 
 Teal Insights is working with Emso Asset Management on an ongoing basis on projects related to sustainable finance in emerging markets sovereign fixed income.  The partnership aims to cut through the wishful thinking and hype that currently dominate discussions of ESG to provide reality-based insights and investment practices.
 draft: false
-featured: false
+featured: true
 tags:
   - Emso Asset Management
   - ESG
