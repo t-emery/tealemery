@@ -18,12 +18,12 @@ image:
   focal_point: Smart
   preview_only: false
   alt_text: Demystifying Sovereign ESG
-  caption: 'Image credit: [**World Bank**](https://documents1.worldbank.org/curated/en/842671621238316887/pdf/Demystifying-Sovereign-ESG.pdf)'
+  caption: 'Image credit: [**World Bank**](https://openknowledge.worldbank.org/bitstream/handle/10986/35683/Paving-the-Path-Lessons-from-Chile-s-Experiences-as-a-Sovereign-Issuer-for-Sustainable-Finance-Action.pdf?sequence=1&isAllowed=y)'
 summary: How can sovereign debt issuers manage rising climate risks, and finance the investments necessary to achieve the goals of the Paris Climate Agreement and the SDGs? As part of a team including former Chilean minister of finance, Felipe Larraín, we documented Chile's experience re-orienting its sovereign debt issuance to be better aligned with fulfilling its ambitious sustainability goals.  
 date: 2021-05-22T22:03:47.455Z
 publishDate: "2021-05-22T00:00:00.000Z"
 publication: World Bank
-url_pdf: https://documents1.worldbank.org/curated/en/842671621238316887/pdf/Demystifying-Sovereign-ESG.pdf
+url_pdf: https://openknowledge.worldbank.org/bitstream/handle/10986/35683/Paving-the-Path-Lessons-from-Chile-s-Experiences-as-a-Sovereign-Issuer-for-Sustainable-Finance-Action.pdf?sequence=1&isAllowed=y
 ---
 
 **Co-authors**:  
