@@ -24,6 +24,7 @@ date: 2021-05-22T22:03:47.455Z
 publishDate: "2021-05-22T00:00:00.000Z"
 publication: World Bank
 url_pdf: https://openknowledge.worldbank.org/bitstream/handle/10986/35683/Paving-the-Path-Lessons-from-Chile-s-Experiences-as-a-Sovereign-Issuer-for-Sustainable-Finance-Action.pdf?sequence=1&isAllowed=y
+
 ---
 
 **Co-authors**:  

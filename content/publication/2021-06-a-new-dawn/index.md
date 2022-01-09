@@ -1,4 +1,3 @@
-
 ---
 title: A New Dawn -- Rethinking Sovereign ESG
 publication_types:
