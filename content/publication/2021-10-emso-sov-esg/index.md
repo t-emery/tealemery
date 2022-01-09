@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
 author_notes: []
-abstract: This past summer, I launched Teal Insights, a research consulting firm focusing on emerging markets, sovereign debt, and sustainability. It has been a pleasure working with the Emso Asset Management team to assess and continue to enhance their approach to Sovereign ESG in emerging markets. This publication benchmarked their approach to Sovereign ESG against best practices I helped formulate at the World Bank. It also outlined areas for growth going forward.   
+abstract: This past summer, I launched Teal Insights, a research consulting firm focusing on uncovering actionable insights relevant to emerging markets, sovereign debt, and sustainability. It has been a pleasure working with the Emso Asset Management team to assess and continue to enhance their approach to Sovereign ESG in emerging markets. This publication benchmarked their approach to Sovereign ESG against best practices I helped formulate at the World Bank. It also outlined areas for growth going forward.   
 draft: false
 featured: true
 tags:
@@ -25,7 +25,15 @@ summary: This past summer, I launched [**Teal Insights**](https://www.linkedin.c
 date: 2021-10-31T00:00:00.000Z
 publishDate: "2021-10-31T00:00:00.000Z"
 publication: Emso Asset Management & Teal Insights
-url_pdf: https://emso.com/insights/features/progress-towards-a-sovereign-esg-20-framework-1LJLEBKz56qsVg5meM7f3F
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: https://emso.com/insights/features/progress-towards-a-sovereign-esg-20-framework-1LJLEBKz56qsVg5meM7f3F
+url_video: ""
+
 
 
 ---
